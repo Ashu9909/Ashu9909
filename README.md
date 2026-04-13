@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ashutosh&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20BI%20Analyst&descAlignY=58&descColor=a0aec0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ashutosh&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Data%20Science%20%7C%20Machine Learning%20%20%7C%20BI%20Analyst&descAlignY=58&descColor=a0aec0&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Transforming+Raw+Data+into+Business+Intelligence+%F0%9F%93%8A;Building+ML+Models+that+Actually+Work+%F0%9F%A4%96;Crafting+Dashboards+that+Tell+Stories+%F0%9F%93%88;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Spark" alt="Typing SVG" />
